@@ -7,3 +7,5 @@ Basicaly it's a learning system. I thought it would be a good thing to add it on
 Do not hesitate to give me advices.
 Please just don't forget my programming levels : 
 - html/CSS/JS (beginner)
+- c (beginner)
+- python (beginner)
